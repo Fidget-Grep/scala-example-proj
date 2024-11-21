@@ -29,6 +29,11 @@
       <artifactId>scala-library</artifactId>
       <version>${scala.version}</version>
     </dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-saml-core</artifactId>
+      <version>22.0.12</version>
+    </dependency>
 
     <!-- Test -->
     <dependency>
